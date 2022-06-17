@@ -1,21 +1,9 @@
-# 절대강좌! 유니티 - 프로젝트
+# 절대강좌! 유니티 8장까지 내용에 인벤토리와 아이템이 추가됨
 
-## 리소스 파일
-- [Resources.zip]()
+### 원본파일 깃허브 링크 : https://github.com/IndieGameMaker/UnityBook
+
+# 절대강좌! 유니티 - 프로젝트
 
 ## [절대강좌! 유니티] 프로젝트 소스코드
 
 ### SpaceShooter
-
-- [2장](https://github.com/IndieGameMaker/SpaceShooter2021/releases/tag/2장)
-- 3장
-- 4장
-- 5장
-- 6장
-- 7장
-- 8장
-- 9장
-- 10장
-- 11장
-- 12장
-- 13장
